@@ -23,7 +23,7 @@
         <mysql.connector.version>8.0.28</mysql.connector.version>
         <alibaba.druid.version>1.1.17</alibaba.druid.version>
         <minio.version>7.0.2</minio.version>
-        <hutool.version>5.7.8</hutool.version>
+        <hutool.version>5.8.21</hutool.version>
     </properties>
 
     <dependencies>
